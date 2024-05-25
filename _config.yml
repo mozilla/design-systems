@@ -1,16 +1,4 @@
 title: Design Systems @ Mozilla
 description: Information hub for different design systems at Mozilla.
-markdown: kramdown
-show_excerpts: false # set to true to show excerpts on the homepage
-#theme: jekyll-theme-tactile
-title: Design Systems @ Mozilla
 source: docs
-theme: jekyll-theme-tactile
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - README.md
-  - index.md
+theme: just-the-docs
