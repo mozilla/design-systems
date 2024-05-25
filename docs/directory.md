@@ -3,6 +3,8 @@ title: Directory
 nav_order: 2
 ---
 
+# Directory
+
 Product             | Design System           | Resources                               | Contacts
 :-------------------|:------------------------|:----------------------------------------|:----------------------
 Firefox             | Acorn                   | [Website](https://acorn.firefox.com)    | #acorn-design-system, Crystal Wong, Jane Wolf, Jules Simplicio, Julian Gaibler, Kuu Chen
