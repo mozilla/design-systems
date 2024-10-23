@@ -7,7 +7,7 @@ nav_order: 2
 
 Product             | Design System           | Resources                               | Contacts
 :-------------------|:------------------------|:----------------------------------------|:----------------------
-Firefox             | Acorn                   | [Website](https://acorn.firefox.com)    | #acorn-design-system, Crystal Wong, Jane Wolf, Jules Simplicio, Julian Gaibler, Kuu Chen
+Firefox             | Acorn                   | [Website](https://acorn.firefox.com)    | #acorn-design-system, Crystal Wong, Jane Wolf, Jules Simplicio, Julian Gaibler, Kuu Chen, Maggie Atkinson
 Innovation projects | Various                 | [Figma](https://www.figma.com/file/N7YNSiDqV96IbrKZ9GLeDk/SOLO-Draft?type=design&node-id=291%3A2493&mode=design&t=Q04UO1ztULAMZ7fk-1)                                                               | Amy Chiu, Jeff Jouppi, Kate Taylor
 Hubs                | Lilypad                 | [Figma](https://www.figma.com/files/887474606008184927/project/51273929)            | Kate Taylor
 Mozilla Accounts    | Mozilla Accounts        | [Storybook](https://storage.googleapis.com/mozilla-storybooks-fxa/commits/latest/fxa-settings/index.html?path=/story/%E2%9C%A9design-guide-introduction--introduction)                              | Lauren Zugai
