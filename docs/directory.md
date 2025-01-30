@@ -15,7 +15,7 @@ Mozilla Foundation  | Mozilla Foundation      | [Website](https://foundation.moz
 Mozilla websites    | Protocol                | [Website](https://protocol.mozilla.com)                                             | #protocol-design-system, Craig Cook, Emma Navajas
 Pocket              | Pocket                  | [Figma](https://www.figma.com/files/887474606008184927/team/1065726967405873029)    | Moiz Syed
 VPN                 | Nebula                  | [Figma](https://www.figma.com/files/887474606008184927/project/55737299/Design-System?fuid=1113697483839481128)                                                                                     | Diana Horn, Eduardo Feo
-Relay               | Nebula and Protocol     | [Figma](http://www.figma.com/file/41y1kGrI2zKv4kvfdJdAWW/Relay-Website)             | No resources anymore
-Monitor             | Custom and Nebula       | [Figma](http://www.figma.com/file/CaEKIhvSJqf6KNIMzSkt40/Concepts-for-Monitor-MVP-Redesign)                   |  Vincent Tunru, Kaitlyn Andres, Florian Zia, Zachery Sutton
+Relay               | Nebula and Protocol     | [Figma](http://www.figma.com/file/41y1kGrI2zKv4kvfdJdAWW/Relay-Website)             | Zachery Sutton
+Monitor             | Custom and Nebula       | [Figma](http://www.figma.com/file/CaEKIhvSJqf6KNIMzSkt40/Concepts-for-Monitor-MVP-Redesign)                   |  Wolasi Konu, Vincent Tunru, Kaitlyn Andres, Florian Zia
 MDN                 | Figma Design System 2.0 | ---                                                                                 | No contact currently
 Thunderbird and K-9 | ---                     | [Website](https://design.thunderbird.net/)                                          |  Solange Valverde, Laurel Terlesky
